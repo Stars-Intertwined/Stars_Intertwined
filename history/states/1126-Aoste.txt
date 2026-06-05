@@ -1,0 +1,26 @@
+state={
+	id=1126
+	name="STATE_1126"
+	provinces={
+		14802 
+	}
+	history={
+		owner = ZZZ
+		add_core_of = ZZZ
+		add_core_of = ZZZ
+		add_core_of = ZZZ
+		add_core_of = ZZZ
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			14802 1 
+		}
+
+	}
+	manpower=120000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=state_level_0
+}

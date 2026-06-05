@@ -1,0 +1,17 @@
+state = {
+	id = 1364
+	name = "STATE_1364"
+	state_category = town
+	
+	history = {
+		owner = SCZ
+		add_core_of = SCZ
+	}
+	
+	provinces = {
+		736 1671 3481 3498 4739 9669 10611 10656 11440 12593 12663 13747 13749 13750 13753 13754 13755 13756 13757 13758 13759 
+	}
+	manpower = 0
+	buildings_max_level_factor = 1
+	local_supplies = 0
+}

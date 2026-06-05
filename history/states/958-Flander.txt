@@ -1,0 +1,39 @@
+
+state={
+	id=958
+	name="STATE_958"
+	resources={
+		steel=25.000
+	}
+
+	history={
+		owner = ERU
+		add_core_of = ERU
+		victory_points = {
+			6560 7 
+		}
+		victory_points = {
+			6446 3 
+		}
+		buildings = {
+			infrastructure = 7
+			air_base = 3
+			industrial_complex = 3
+			dockyard = 1
+			6446 = {
+				naval_base = 6
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		6446 6560 15215 15216 
+	}
+	manpower=2489000
+	buildings_max_level_factor=1.000
+	state_category=state_level_5
+	local_supplies=0.000
+}

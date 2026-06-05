@@ -1,0 +1,30 @@
+
+state = {
+	id = 740
+	name = "STATE_740"
+	state_category = town
+
+	history = {
+		owner = CAN
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+
+		}
+		victory_points = {
+			12291 2 
+		}
+		victory_points = {
+			4422 1 
+		}
+		add_core_of = CAN
+
+	}
+
+	provinces = {
+		1284 4305 4422 12291 13812 
+	}
+	manpower = 312000
+	buildings_max_level_factor = 1.000
+}

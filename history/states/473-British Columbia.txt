@@ -1,0 +1,21 @@
+state = {
+	id = 473
+	name = "STATE_473"
+	state_category = town
+
+	history = {
+		owner = NFC
+		add_core_of = NFC
+	}	
+	resources = {
+		aluminium = 30
+		oil = 3
+		rubber = 4
+	}
+	provinces = {
+		917 1872 4678 5403 12508 13694 13695 13731 
+	}
+	manpower = 40213
+	buildings_max_level_factor = 1
+	local_supplies = 0
+}

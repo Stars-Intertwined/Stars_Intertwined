@@ -1,0 +1,18 @@
+version="1.1"
+tags={
+	"Graphics"
+	"Fixes"
+	"Gameplay"
+}
+replace_path="common/countries"
+replace_path="common/country_tags"
+replace_path="common/decisions"
+replace_path="common/decisions/categories"
+replace_path="events"
+replace_path="history/countries"
+replace_path="history/states"
+replace_path="map/strategicregions"
+picture="thumbnail"
+name="群星交错"
+supported_version="1.18.*"
+remote_file_id="3603958556"

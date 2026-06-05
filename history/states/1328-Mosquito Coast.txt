@@ -1,0 +1,25 @@
+state = {
+	id = 1328
+	name = "STATE_1328"
+	state_category = town
+	
+	provinces = {
+		15987 
+	}
+	history = {
+		owner = FCA
+		add_core_of = FCA
+		buildings = {
+			infrastructure = 4
+
+		}
+		victory_points = {
+			15987 2 
+		}
+
+	}
+
+	manpower = 300000
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}

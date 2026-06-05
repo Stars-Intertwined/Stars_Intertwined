@@ -1,0 +1,20 @@
+state = {
+	id = 357
+	name = "STATE_357"
+	state_category = town
+
+	history = {
+		owner = USA
+		add_core_of = USA
+	}
+	resources = {
+		steel = 10
+		rubber = 10
+	}
+	provinces = {
+		715 718 908 3710 
+	}
+	manpower = 6361713
+	buildings_max_level_factor = 1
+	local_supplies = 0
+}

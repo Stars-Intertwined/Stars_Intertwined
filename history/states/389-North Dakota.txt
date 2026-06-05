@@ -1,0 +1,19 @@
+state = {
+	id = 389
+	name = "STATE_389"
+	state_category = town
+
+	history = {
+		owner = USA
+		add_core_of = USA
+	}
+	resources = {
+		oil = 40
+	}
+	provinces = {
+		1752 1788 1848 1870 3719 4759 4790 10709 12145 12685 13737 13743 13745 
+	}
+	manpower = 642023
+	buildings_max_level_factor = 1
+	local_supplies = 0
+}

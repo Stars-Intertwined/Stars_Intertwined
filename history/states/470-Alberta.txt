@@ -1,0 +1,20 @@
+state = {
+	id = 470
+	name = "STATE_470"
+	state_category = town
+
+	history = {
+		owner = NFC
+		add_core_of = NFC
+	}	
+	resources = {
+		oil = 163
+		steel = 10
+	}
+	provinces = {
+		2407 7348 7349 7830 7858 12534 13192 13696 13732 13733 16915
+	}
+	manpower = 3028340
+	buildings_max_level_factor = 1
+	local_supplies = 0
+}

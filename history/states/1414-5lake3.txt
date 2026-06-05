@@ -1,0 +1,16 @@
+state = {
+	id = 1414
+	name = "STATE_1414"
+	state_category = town
+
+	history = {
+		owner = USA
+		add_core_of = USA
+	}
+	provinces = {
+		926 4166 4834 9657 
+	}
+	manpower = 0
+	buildings_max_level_factor = 1
+	local_supplies = 0
+}

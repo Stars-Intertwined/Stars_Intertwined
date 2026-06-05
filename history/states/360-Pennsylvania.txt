@@ -1,0 +1,21 @@
+state = {
+	id = 360
+	name = "STATE_360"
+	state_category = town
+
+	history = {
+		owner = USA
+		add_core_of = USA
+	}
+	resources = {
+		aluminium = 5
+		steel = 50
+		rubber = 10
+	}
+	provinces = {
+		862 891 894 3824 3897 6845 6869 9820 11785 11799 16776 
+	}
+	manpower = 12281000
+	buildings_max_level_factor = 1
+	local_supplies = 0
+}

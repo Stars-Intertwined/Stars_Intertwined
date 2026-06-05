@@ -1,0 +1,21 @@
+state = {
+	id = 1092
+	name = "STATE_1092"
+	state_category = town
+
+	history = {
+		owner = USA
+		add_core_of = USA
+	}
+	resources = {
+		oil = 40
+		steel = 15
+		rubber = 15
+	}
+	provinces = {
+		823 7986 12374 13661 13662 16783 
+	}
+	manpower = 20634000
+	buildings_max_level_factor = 1
+	local_supplies = 0
+}

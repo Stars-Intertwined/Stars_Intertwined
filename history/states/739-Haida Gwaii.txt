@@ -1,0 +1,25 @@
+state = {
+	id = 739
+	name = "STATE_739"
+	state_category = town
+
+	history = {
+		owner = BCZ
+		add_core_of = BCZ
+		buildings = {
+			infrastructure = 1
+			1869 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = ZZZ
+		#add_core_of = ZZZ
+	}
+
+	provinces = {
+		1869
+	}
+	manpower = 4000
+	buildings_max_level_factor = 1	
+	state_category = state_level_0
+}

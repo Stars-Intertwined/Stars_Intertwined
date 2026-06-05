@@ -1,0 +1,19 @@
+state = {
+	id = 377
+	name = "STATE_377"
+	state_category = town
+
+	history = {
+		owner = USA
+		add_core_of = USA
+	}
+	resources = {
+		steel = 5
+	}
+	provinces = {
+		850 853 1793 4796 7747 8115 11814 12765 13631 13633 16789 16790 16791 
+	}
+	manpower = 5130000
+	buildings_max_level_factor = 1
+	local_supplies = 0
+}

@@ -1,0 +1,32 @@
+
+state = {
+	id = 683
+	name = "STATE_683"
+	state_category = town
+
+	resources = {
+		steel = 10.000
+	}
+	history={
+		owner = NFC
+		add_core_of = NFC
+		buildings = {
+			infrastructure = 2
+			3691 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			3691 1 
+		}
+
+	}
+
+	provinces={
+		1712 2947 3691 7813 8962 10721 13188 13190 13191 13693 
+	}
+	manpower=28000
+	buildings_max_level_factor=1.000
+}

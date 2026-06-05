@@ -1,0 +1,35 @@
+state={
+	id=1278
+	name="STATE_1278"
+	provinces={
+		1613 1626 10502 12336 12440 12468 
+	}
+	history={
+		owner = ZZZ
+		add_core_of = ZZZ
+		victory_points = {
+			12468 5
+		}
+		victory_points = {
+			1626 2
+		}
+		victory_points = {
+			10502 3 
+		}
+		victory_points = {
+			1613 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			12468 = { dam = 1 } #Salto Grande
+		}
+	}
+	resources={
+		steel=4.000 #Mines in Rivera and other places
+	}
+	manpower=563762
+	buildings_max_level_factor=1.000
+	state_category=state_level_1
+	local_supplies=0.000
+}

@@ -1,0 +1,44 @@
+
+state = {
+	id = 313
+	name = "STATE_313"
+	state_category = town
+
+	resources = {
+		oil = 1.000
+	}
+
+	history = {
+		owner = FCA
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 1
+			air_base = 4
+			15998 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = FCA
+		victory_points = {
+			10886 30
+		}
+		victory_points = {
+			15998 3 
+		}
+		victory_points = {
+			3667 3 
+		}
+
+	}
+
+	provinces = {
+		3667 10886 15998 
+	}
+	manpower = 5569000
+	buildings_max_level_factor = 1.000
+	local_supplies = 0.000
+}

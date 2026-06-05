@@ -1,0 +1,17 @@
+state = {
+	id = 1363
+	name = "STATE_1363"
+	state_category = town
+
+	history = {
+		owner = OCZ
+		add_core_of = OCZ
+	}
+
+	provinces = {
+		761 763 3736 4753 11571 13775 13776 13777 13778 13779 13780 13781 
+	}
+	manpower = 0
+	buildings_max_level_factor = 1
+	local_supplies = 0
+}

@@ -1,0 +1,7 @@
+# 国家的图形文化（决定了你的士兵模型、UI头像风格）
+graphical_culture = western_european_gfx
+graphical_culture_2d = western_european_2d
+
+# 国家在地图上的颜色（RGB格式）
+# 这里建议用深灰色 { 80 80 80 }，作为“未开发区域”的底色非常合适
+color = { 255 0 0 }
