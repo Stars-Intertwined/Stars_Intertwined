@@ -8,10 +8,8 @@ state = {
 		chromium=35
 	}
 	history = {
-		owner = ZZZ
-		add_claim_by = PRC
-		#add_claim_by= CHI
-		add_core_of = ZZZ
+		owner = CSR
+		add_core_of = CSR
 		victory_points = {
 			7792 5 
 		}

@@ -9,7 +9,8 @@ state={
 	}
 
 	history={
-		owner = ZZZ
+		owner = CCC
+		add_core_of = CCC
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 3
@@ -35,8 +36,6 @@ state={
 		victory_points = {
 			12230 10 
 		}
-		add_core_of = ZZZ
-		add_claim_by = SIA
 		set_compliance = 50
 		set_resistance = 25
 

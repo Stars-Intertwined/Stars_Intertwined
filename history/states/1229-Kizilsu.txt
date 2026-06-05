@@ -5,10 +5,8 @@ state = {
 	state_category = state_level_1
 	
 	history = {
-		owner = ZZZ
-		add_claim_by = PRC
-		#add_claim_by= CHI
-		add_core_of = ZZZ
+		owner = CSR
+		add_core_of = CSR
 		buildings = {
 			infrastructure = 3
 

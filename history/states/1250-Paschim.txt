@@ -6,9 +6,8 @@ state={
 		4915 5086 9951 10794 11955 16534 16535 16536 16537 16538 16539 16540 16541 16542 
 	}
 	history={
-		owner = ZZZ
-		add_core_of = ZZZ
-		add_core_of = ZZZ
+		owner = MR8
+		add_core_of = MR8
 		victory_points = {
 			4915 20 
 		}

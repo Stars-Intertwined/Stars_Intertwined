@@ -1,4 +1,4 @@
-capital = 16815
+capital = 14225
 
 # 初始政体设定（防止游戏不知道谁在执政而崩溃）
 set_politics = {

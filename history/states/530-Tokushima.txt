@@ -5,10 +5,9 @@ state=
 	manpower = 4152955
 	state_category = state_level_10
 
-	history=
-	{
-		owner = ZZZ
-		add_core_of = ZZZ
+	history= {
+		owner = ASG
+		add_core_of = ASG
 		add_extra_state_shared_building_slots = 1
 		buildings = {
 			infrastructure = 6

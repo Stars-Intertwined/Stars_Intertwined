@@ -5,9 +5,8 @@ state={
 		11959 12027 
 	}
 	history={
-		owner = ZZZ
-		add_core_of = ZZZ
-		add_claim_by = PRC
+		owner = CSR
+		add_core_of = CSR
 		buildings = {
 			infrastructure = 7
 			industrial_complex = 2

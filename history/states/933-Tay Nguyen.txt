@@ -8,8 +8,8 @@ state={
 		rubber=10
 	}
 	history={
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = CCC
+		add_core_of = CCC
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2

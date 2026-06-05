@@ -6,8 +6,8 @@ state=
 	state_category = state_level_0
 	history=
 	{
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = ASG
+		add_core_of = ASG
 		buildings = {
 			infrastructure = 3
 			air_base = 1

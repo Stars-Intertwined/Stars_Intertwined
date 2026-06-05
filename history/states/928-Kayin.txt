@@ -4,9 +4,8 @@ state={
 	name="STATE_928"
 
 	history={
-		owner = ZZZ
-		add_claim_by = BRM
-		add_core_of = ZZZ
+		owner = CCC		
+		add_core_of = CCC
 		set_resistance = 30
 		victory_points = {
 			4654 1 

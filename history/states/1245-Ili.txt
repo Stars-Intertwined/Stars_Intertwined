@@ -9,9 +9,8 @@ state={
 	}
 
 	history={
-		owner = ZZZ
-		add_core_of = ZZZ
-		#add_claim_by = CHI
+		owner = CSR
+		add_core_of = CSR
 		add_extra_state_shared_building_slots = 2
 		victory_points = {
 			10000 50 

@@ -1,5 +1,4 @@
-# 国家的图形文化（决定了你的士兵模型、UI头像风格）
 graphical_culture = western_european_gfx
 graphical_culture_2d = western_european_2d
 
-color = { 179 74 13 }
+color = { 190 70 10 }

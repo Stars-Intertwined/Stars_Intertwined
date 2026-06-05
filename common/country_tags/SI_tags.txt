@@ -127,4 +127,25 @@ SNI = "countries/SNI.txt"
 PPR = "countries/PPR.txt"
 AFS = "countries/AFS.txt"
 
-#亚洲
+#东亚
+CSR = "countries/CSR.txt"#辰曦社会主义联盟共和国
+ASG = "countries/ASG.txt"#朝雾国
+CAY = "countries/CAY.txt"#察颜
+A01 = "countries/A01.txt"#欠治理地区
+GRY = "countries/GRY.txt"#高丽
+CCC = "countries/CCC.txt"#中南半岛共律联合体
+MR1 = "countries/MR1.txt"#摩罗迪亚维和部队
+MR2 = "countries/MR2.txt"#克什米尔治安区
+MR3 = "countries/MR3.txt"#俾路支自治领
+MR4 = "countries/MR4.txt"#摩罗迪亚护国军
+MR5 = "countries/MR5.txt"#阿格拉协调政府
+MR6 = "countries/MR6.txt"#德干民主共和国
+MR7 = "countries/MR7.txt"#西岸自由商业联盟
+MR8 = "countries/MR8.txt"#摩罗迪亚过渡政府
+MR9 = "countries/MR9.txt"#达卡三角洲资源开发区
+
+#东亚战争势力
+FTS = "countries/FTS.txt"#翡翠
+CAL = "countries/CAL.txt"#苍龙
+RUI = "countries/RUI.txt"#瑞景
+SIA = "countries/SIA.txt"#暹罗

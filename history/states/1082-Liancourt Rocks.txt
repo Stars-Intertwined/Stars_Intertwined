@@ -6,10 +6,8 @@ state={
 	}
 	#impassable = yes
 	history={
-		owner = ZZZ
-		add_claim_by = PRK
-		add_core_of = ZZZ
-		add_core_of = ZZZ
+		owner = GRY
+		add_core_of = GRY
 		buildings = {
 			infrastructure = 0
 
