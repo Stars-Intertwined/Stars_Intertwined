@@ -578,7 +578,7 @@ guiTypes = {
 	
 	containerWindowType = {
 		name = "national_focus_link"
-		position = { x=-33 y=5 }
+		position = { x=-2 y=0 }
 		size = { width = 16 height = 16 }
 		clipping = no
 
@@ -592,7 +592,7 @@ guiTypes = {
 
 	containerWindowType = {
 		name = "national_focus_exclusive_item"
-		position = { x=-37 y=28 }
+		position = { x=-5 y=28 }
 		size = { width = 1 height = 12 } #width will be set by code
 		clipping = no
 
@@ -630,7 +630,7 @@ guiTypes = {
 
 	positionType = {
 		name = "focus_spacing"
-		position = { x = 56 y = 81 }
+		position = { x = 76 y = 76 }
 	}
 
 	positionType = {
@@ -640,7 +640,7 @@ guiTypes = {
 	
 	positionType = {
 		name = "link_spacing"
-		position = { x = 8 y = 8 }
+		position = { x = 16 y = 16 }
 	}
 	
 	positionType = {
@@ -650,26 +650,26 @@ guiTypes = {
 	
 	positionType = {
 		name = "link_begin"
-		position = { x = 79 y = 64 }
+		position = { x = 80 y = 64 }
 	}
 	positionType = {
 		name = "link_end"
-		position = { x = 79  y = 36 }
+		position = { x = 80  y = 0 }
 	}
 	
 	positionType = {
 		name = "exclusive_offset"
-		position = { x = 186 y = 24 }
+		position = { x = 172 y = 24 }
 	}
 
 	positionType = {
 		name = "exclusive_offset_left"
-		position = { x = -4 y = 24 }
+		position = { x = 12 y = 24 }
 	}
 
 	positionType = {
 		name = "exclusive_positioning"
-		position = { x = 4 y = 0 }
+		position = { x = 2 y = 0 }
 	}
 	
 	containerWindowType = {
