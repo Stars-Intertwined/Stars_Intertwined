@@ -1,0 +1,50 @@
+spriteTypes = {
+    SpriteType = {
+        name = "GFX_focus_USA_national_victory_day"
+        texturefile = "gfx/interface/goals/USA/USA_national_victory_day.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_USA_reignite_the_american_dream"
+        texturefile = "gfx/interface/goals/USA/USA_reignite_the_american_dream.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_USA_new_landscape_in_north_america"
+        texturefile = "gfx/interface/goals/USA/USA_new_landscape_in_north_america.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_USA_infiltration_united_party"
+        texturefile = "gfx/interface/goals/USA/USA_infiltration_united_party.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_USA_usa_security_law"
+        texturefile = "gfx/interface/goals/USA/USA_usa_security_law.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_USA_empowering_media_alliance"
+        texturefile = "gfx/interface/goals/USA/USA_empowering_media_alliance.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_USA_uphold_the_image_of_justice"
+        texturefile = "gfx/interface/goals/USA/USA_uphold_the_image_of_justice.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_USA_policy_coordination_initiative"
+        texturefile = "gfx/interface/goals/USA/USA_policy_coordination_initiative.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_USA_Control_left_wing_groups"
+        texturefile = "gfx/interface/goals/USA/USA_Control_left_wing_groups.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_USA_correct_patriotic_behavior"
+        texturefile = "gfx/interface/goals/USA/USA_correct_patriotic_behavior.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_USA_guide_international_public_opinion"
+        texturefile = "gfx/interface/goals/USA/USA_guide_international_public_opinion.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_USA_increase_suppress_frequency"
+        texturefile = "gfx/interface/goals/USA/USA_increase_suppress_frequency.png"
+    }
+}
