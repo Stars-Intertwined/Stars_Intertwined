@@ -8,8 +8,8 @@ ACC = {
 	color_ui = rgb { 38 201 22 }
 }
 ACZ = {
-	color = rgb { 67 67 173 }
-	color_ui = rgb { 67 67 173 }
+	color = rgb { 20 20 100 }
+	color_ui = rgb { 20 20 100 }
 }
 AFC = {
 	color = rgb { 161 32 32 }
@@ -28,8 +28,8 @@ ALP = {
 	color_ui = rgb { 98 27 44 }
 }
 ALS = {
-	color = rgb { 228 228 228 }
-	color_ui = rgb { 228 228 228 }
+	color = rgb { 230 230 230 }
+	color_ui = rgb { 230 230 230 }
 }
 ANF = {
 	color = rgb { 138 138 235 }
@@ -60,8 +60,8 @@ BCN = {
 	color_ui = rgb { 123 123 231 }
 }
 BCZ = {
-	color = rgb { 67 67 173 }
-	color_ui = rgb { 67 67 173 }
+	color = rgb { 20 20 100 }
+	color_ui = rgb { 20 20 100 }
 }
 BFC = {
 	color = rgb { 98 181 19 }
@@ -80,8 +80,8 @@ CAC = {
 	color_ui = rgb { 216 216 64 }
 }
 CAN = {
-	color = rgb { 179 74 13 }
-	color_ui = rgb { 179 74 13 }
+	color = rgb { 150 65 20 }
+	color_ui = rgb { 150 65 20 }
 }
 CCA = {
 	color = rgb { 22 55 26 }
@@ -196,8 +196,8 @@ MCG = {
 	color_ui = rgb { 165 165 165 }
 }
 MCZ = {
-	color = rgb { 145 67 2 }
-	color_ui = rgb { 145 67 2 }
+	color = rgb { 145 45 15 }
+	color_ui = rgb { 145 45 15 }
 }
 MFF = {
 	color = rgb { 25 100 54 }
@@ -212,8 +212,8 @@ MNR = {
 	color_ui = rgb { 113 175 96 }
 }
 MRZ = {
-	color = rgb { 186 172 255 }
-	color_ui = rgb { 186 172 255 }
+	color = rgb { 60 50 140 }
+	color_ui = rgb { 60 50 140 }
 }
 MSM = {
 	color = rgb { 65 65 100 }
@@ -240,8 +240,8 @@ NEM = {
 	color_ui = rgb { 209 62 83 }
 }
 NFC = {
-	color = rgb { 206 206 255 }
-	color_ui = rgb { 206 206 255 }
+	color = rgb { 170 170 200 }
+	color_ui = rgb { 170 170 200 }
 }
 NGH = {
 	color = rgb { 43 43 58 }
@@ -264,8 +264,8 @@ NTF = {
 	color_ui = rgb { 147 112 0 }
 }
 OCZ = {
-	color = rgb { 145 67 2 }
-	color_ui = rgb { 145 67 2 }
+	color = rgb { 145 45 15 }
+	color_ui = rgb { 145 45 15 }
 }
 OFS = {
 	color = rgb { 89 35 49 }
@@ -276,8 +276,8 @@ ONG = {
 	color_ui = rgb { 226 198 70 }
 }
 ORZ = {
-	color = rgb { 186 172 255 }
-	color_ui = rgb { 186 172 255 }
+	color = rgb { 60 50 140 }
+	color_ui = rgb { 60 50 140 }
 }
 OSR = {
 	color = rgb { 24 145 276 }
@@ -316,8 +316,8 @@ SAM = {
 	color_ui = rgb { 179 213 123 }
 }
 SCZ = {
-	color = rgb { 67 67 173 }
-	color_ui = rgb { 67 67 173 }
+	color = rgb { 20 20 100 }
+	color_ui = rgb { 20 20 100 }
 }
 SLA = {
 	color = rgb { 26 26 126 }
@@ -356,8 +356,8 @@ TRC = {
 	color_ui = rgb { 214 48 75 }
 }
 USA = {
-	color = rgb { 33 33 137 }
-	color_ui = rgb { 33 33 137 }
+	color = rgb { 35 35 120 }
+	color_ui = rgb { 35 35 120 }
 }
 USC = {
 	color = rgb { 15 45 122 }
@@ -710,8 +710,8 @@ D75 = {
 }
 #欧洲TAG
 ERU = {
-	color = rgb { 28 67 196 }
-	color_ui = rgb { 28 67 196 }
+	color = rgb { 45 45 150 }
+	color_ui = rgb { 45 45 150 }
 }
 FND = {
 	color = rgb { 36 10 105 }
@@ -722,20 +722,20 @@ ETB = {
 	color_ui = rgb { 196 192 148 }
 }
 SNC = {
-	color = rgb { 149 149 149 }
-	color_ui = rgb { 149 149 149 }
+	color = rgb { 100 100 100 }
+	color_ui = rgb { 100 100 100 }
 }
 VCD = {
-	color = rgb { 209 153 145 }
-	color_ui = rgb { 209 153 145 }
+	color = rgb { 210 150 140 }
+	color_ui = rgb { 210 150 140 }
 }
-AAJ = {
-	color = rgb { 32 36 32 }
-	color_ui = rgb { 32 36 32 }
+AAG = {
+	color = rgb { 90 65 25 }
+	color_ui = rgb { 90 65 25 }
 }
 DRI = {
-	color = rgb { 190 35 15 }
-	color_ui = rgb { 190 35 15 }
+	color = rgb { 170 40 30 }
+	color_ui = rgb { 170 40 30 }
 }
 SNI = {
 	color = rgb { 31 26 53 }
@@ -763,8 +763,8 @@ CAY = {
 	color_ui = rgb { 160 33 33 }
 }
 A01 = {
-	color = rgb { 87 67 67 }
-	color_ui = rgb { 87 67 67 }
+	color = rgb { 80 70 60 }
+	color_ui = rgb { 80 70 60 }
 }
 GRY = {
 	color = rgb { 160 33 33 }

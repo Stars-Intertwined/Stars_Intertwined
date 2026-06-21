@@ -578,7 +578,7 @@ guiTypes = {
 	
 	containerWindowType = {
 		name = "national_focus_link"
-		position = { x=-2 y=0 }
+		position = { x=-1 y=5 }
 		size = { width = 16 height = 16 }
 		clipping = no
 
@@ -630,7 +630,7 @@ guiTypes = {
 
 	positionType = {
 		name = "focus_spacing"
-		position = { x = 76 y = 76 }
+		position = { x = 96 y = 145 }
 	}
 
 	positionType = {
@@ -723,7 +723,7 @@ guiTypes = {
 		}
 		iconType = {
 			name = "symbol"
-			position = { x = 20 y = 78 }
+			position = { x = 14 y = 78 }
 			spriteType = "GFX_goal_unknown"
 			alwaystransparent = yes
 		}

@@ -47,4 +47,32 @@ spriteTypes = {
         name = "GFX_focus_USA_increase_suppress_frequency"
         texturefile = "gfx/interface/goals/USA/USA_increase_suppress_frequency.png"
     }
+    SpriteType = {
+        name = "GFX_focus_USA_winover_olitical_allies"
+        texturefile = "gfx/interface/goals/USA/USA_winover_olitical_allies.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_USA_reorganize_police_force"
+        texturefile = "gfx/interface/goals/USA/USA_reorganize_police_force.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_USA_publicize_heroic_deeds"
+        texturefile = "gfx/interface/goals/USA/USA_publicize_heroic_deeds.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_USA_sacramento_negotiations"
+        texturefile = "gfx/interface/goals/USA/USA_sacramento_negotiations.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_USA_bind_good_friends"
+        texturefile = "gfx/interface/goals/USA/USA_bind_good_friends.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_USA_control_domestic_situation"
+        texturefile = "gfx/interface/goals/USA/USA_control_domestic_situation.png"
+    }
+    SpriteType = {
+        name = "GFX_focus_USA_return_global_hegemony"
+        texturefile = "gfx/interface/goals/USA/USA_return_global_hegemony.png"
+    }
 }

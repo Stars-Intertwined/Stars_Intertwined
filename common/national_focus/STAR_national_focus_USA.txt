@@ -13,7 +13,7 @@ focus_tree = {
         icon = GFX_focus_USA_national_victory_day
         dynamic = yes
         x = 8
-        y = 0
+        y = 1
         cost = 4
         completion_reward = {
             #kongzhe
@@ -24,8 +24,8 @@ focus_tree = {
         id = USA_reignite_the_american_dream
         icon = GFX_focus_USA_reignite_the_american_dream
         dynamic = yes
-        x = -4
-        y = 2
+        x = -3
+        y = 1
         relative_position_id = USA_national_victory_day
         prerequisite = {
 		    focus = USA_national_victory_day
@@ -40,8 +40,8 @@ focus_tree = {
         id = USA_new_landscape_in_north_america
         icon = GFX_focus_USA_new_landscape_in_north_america
         dynamic = yes
-        x = 4
-        y = 2
+        x = 3
+        y = 1
         relative_position_id = USA_national_victory_day
         prerequisite = {
 		    focus = USA_national_victory_day
@@ -56,8 +56,8 @@ focus_tree = {
         id = USA_infiltration_united_party
         icon = GFX_focus_USA_infiltration_united_party
         dynamic = yes
-        x = -4
-        y = 2
+        x = -3
+        y = 1
         relative_position_id = USA_reignite_the_american_dream
         prerequisite = {
 		focus = USA_reignite_the_american_dream
@@ -73,7 +73,7 @@ focus_tree = {
         icon = GFX_focus_USA_usa_security_law
         dynamic = yes
         x = 0
-        y = 2
+        y = 1
         relative_position_id = USA_reignite_the_american_dream
         prerequisite = {
 		    focus = USA_reignite_the_american_dream
@@ -88,8 +88,8 @@ focus_tree = {
         id = USA_empowering_media_alliance
         icon = GFX_focus_USA_empowering_media_alliance
         dynamic = yes
-        x = 4
-        y = 2
+        x = 3
+        y = 1
         relative_position_id = USA_reignite_the_american_dream
         prerequisite = {
 		    focus = USA_reignite_the_american_dream
@@ -108,7 +108,7 @@ focus_tree = {
         icon = GFX_focus_USA_uphold_the_image_of_justice
         dynamic = yes
         x = 0
-        y = 2
+        y = 1
         relative_position_id = USA_new_landscape_in_north_america
         prerequisite = {
             focus = USA_new_landscape_in_north_america
@@ -123,8 +123,8 @@ focus_tree = {
         id = USA_policy_coordination_initiative
         icon = GFX_focus_USA_policy_coordination_initiative
         dynamic = yes
-        x = 4
-        y = 2
+        x = 3
+        y = 1
         relative_position_id = USA_new_landscape_in_north_america
         prerequisite = {
             focus = USA_new_landscape_in_north_america
@@ -139,8 +139,8 @@ focus_tree = {
         id = USA_Control_left_wing_groups
         icon = GFX_focus_USA_Control_left_wing_groups
         dynamic = yes
-        x = -2
-        y = 2
+        x = -1
+        y = 1
         relative_position_id = USA_usa_security_law
         prerequisite = {
             focus = USA_usa_security_law
@@ -158,8 +158,8 @@ focus_tree = {
         id = USA_correct_patriotic_behavior
         icon = GFX_focus_USA_correct_patriotic_behavior
         dynamic = yes
-        x = 2
-        y = 2
+        x = 1
+        y = 1
         relative_position_id = USA_usa_security_law
         prerequisite = {
             focus = USA_usa_security_law
@@ -177,8 +177,8 @@ focus_tree = {
         id = USA_guide_international_public_opinion
         icon = GFX_focus_USA_guide_international_public_opinion
         dynamic = yes
-        x = -2
-        y = 2
+        x = -1
+        y = 1
         relative_position_id = USA_uphold_the_image_of_justice
         prerequisite = {
             focus = USA_uphold_the_image_of_justice
@@ -196,8 +196,8 @@ focus_tree = {
         id = USA_increase_suppress_frequency
         icon = GFX_focus_USA_increase_suppress_frequency
         dynamic = yes
-        x = 2
-        y = 2
+        x = 1
+        y = 1
         relative_position_id = USA_uphold_the_image_of_justice
         prerequisite = {
             focus = USA_uphold_the_image_of_justice
@@ -231,14 +231,109 @@ focus_tree = {
         id = USA_reorganize_police_force
         icon = GFX_focus_USA_reorganize_police_force
         dynamic = yes
-        x = 2
-        y = 2
+        x = 1
+        y = 1
         relative_position_id = USA_Control_left_wing_groups
         prerequisite = {
             focus = USA_Control_left_wing_groups
         }
         prerequisite = {
             focus = USA_correct_patriotic_behavior
+        }
+        cost = 4
+        completion_reward = {
+            #kongzhe
+        }
+    }
+
+    focus = {
+        id = USA_publicize_heroic_deeds
+        icon = GFX_focus_USA_publicize_heroic_deeds
+        dynamic = yes
+        x = -2
+        y = 1
+        relative_position_id = USA_guide_international_public_opinion
+        prerequisite = {
+            focus = USA_empowering_media_alliance
+        }
+        cost = 4
+        completion_reward = {
+            #kongzhe
+        }
+    }
+
+    focus = {
+        id = USA_sacramento_negotiations
+        icon = GFX_focus_USA_sacramento_negotiations
+        dynamic = yes
+        x = 1
+        y = 1
+        relative_position_id = USA_guide_international_public_opinion
+        prerequisite = {
+            focus = USA_guide_international_public_opinion
+        }
+        prerequisite = {
+            focus = USA_increase_suppress_frequency
+        }
+        cost = 4
+        completion_reward = {
+            #kongzhe
+        }
+    }
+
+    focus = {
+        id = USA_bind_good_friends
+        icon = GFX_focus_USA_bind_good_friends
+        dynamic = yes
+        x = 0
+        y = 2
+        relative_position_id = USA_policy_coordination_initiative
+        prerequisite = {
+            focus = USA_policy_coordination_initiative
+        }
+        cost = 4
+        completion_reward = {
+            #kongzhe
+        }
+    }
+
+    focus = {
+        id = USA_control_domestic_situation
+        icon = GFX_focus_USA_control_domestic_situation
+        dynamic = yes
+        x = 0
+        y = 1
+        relative_position_id = USA_reorganize_police_force
+        prerequisite = {
+            focus = USA_reorganize_police_force
+        }
+        prerequisite = {
+            focus = USA_winover_olitical_allies
+        }
+        prerequisite = {
+            focus = USA_publicize_heroic_deeds
+        }
+        cost = 4
+        completion_reward = {
+            #kongzhe
+        }
+    }
+
+    focus = {
+        id = USA_return_global_hegemony
+        icon = GFX_focus_USA_return_global_hegemony
+        dynamic = yes
+        x = 0
+        y = 1
+        relative_position_id = USA_sacramento_negotiations
+        prerequisite = {
+            focus = USA_bind_good_friends
+        }
+        prerequisite = {
+            focus = USA_sacramento_negotiations
+        }
+        prerequisite = {
+            focus = USA_publicize_heroic_deeds
         }
         cost = 4
         completion_reward = {
