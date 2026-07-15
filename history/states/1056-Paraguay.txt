@@ -20,9 +20,7 @@ state={
 			infrastructure = 4
 			industrial_complex = 1
 			air_base = 2
-
 		}
-
 	}
 	manpower=2494000
 	buildings_max_level_factor=1.000

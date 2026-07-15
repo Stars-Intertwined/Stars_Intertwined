@@ -6,11 +6,27 @@ state = {
 	history = {
 		owner = USA
 		add_core_of = USA
+		buildings = {
+			infrastructure = 8
+			air_base = 4
+			industrial_complex = 9
+			arms_factory = 5
+			synthetic_refinery = 1
+		}
+		victory_points = { 6890 35 }
+		victory_points = { 689 12 }
+		victory_points = { 3853 7 }
+	}
+	resources = {
+		oil = 25
+		aluminium = 20
+		rubber = 10
+		steel = 40
 	}
 	provinces = {
-		659 689 882 3685 3853 3872 4442 6855 6874 6890 9825 11760 11791 16777 
+		659 689 882 3685 3853 3872 4442 6855 6874 6890 9825 11760 11791 16777
 	}
-	manpower = 0
+	manpower = 11600000
 	buildings_max_level_factor = 1
 	local_supplies = 0
 }

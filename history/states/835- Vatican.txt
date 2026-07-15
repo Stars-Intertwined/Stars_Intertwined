@@ -6,10 +6,10 @@ state={
 	state_category = state_level_1
 	history={
 		owner = ZZZ
+		add_core_of = ZZZ
 		buildings = {
 			infrastructure = 6
 		}
-		add_core_of = ZZZ
 		victory_points = { 13205 1 }
 	}
 	provinces={

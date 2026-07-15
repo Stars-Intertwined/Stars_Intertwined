@@ -6,32 +6,18 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		add_core_of = ZZZ
-		2016.1.1 = {
-			add_core_of = ZZZ
-			remove_core_of = SNA
-			owner = ZZZ
-			SOM = {
-				set_province_controller = 1964
-				set_province_controller = 2020
-				set_province_controller = 15830
-				set_province_controller = 15824
-			}
-		}
 		buildings = {
 			infrastructure = 3
-
 		}
 		victory_points = {
 			15829 2
 		}
 		victory_points = {
-			15830 1 
+			15830 1
 		}
 		victory_points = {
-			2020 2 
+			2020 2
 		}
-
 	}
 
 	provinces={

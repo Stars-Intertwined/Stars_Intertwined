@@ -12,21 +12,16 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		add_core_of = ZZZ
-		add_core_of = ZZZ
-		add_core_of = ZZZ
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
-
 		}
 		victory_points = {
-			628 1 
+			628 1
 		}
 		victory_points = {
 			9613 2
 		}
-
 	}
 	manpower=945000
 	buildings_max_level_factor=1.000

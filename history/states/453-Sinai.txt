@@ -8,28 +8,26 @@ state={
 
 	history={
 		owner = ZZZ
+		add_core_of = ZZZ
 		set_demilitarized_zone = yes
 		buildings = {
 			infrastructure = 4
 			10099 = {
 				naval_base = 1
-
 			}
 		}
-		add_core_of = ZZZ
 		victory_points = {
-			10099 1 
+			10099 1
 		}
 		victory_points = {
-			15168 1 
+			15168 1
 		}
 		victory_points = {
-			4161 4 
+			4161 4
 		}
 		victory_points = {
-			15170 1 
+			15170 1
 		}
-
 	}
 
 	provinces={

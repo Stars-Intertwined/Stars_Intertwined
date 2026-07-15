@@ -13,13 +13,10 @@ state={
 			infrastructure = 6
 			industrial_complex = 2
 			#air_base = 1
-
 		}
 		victory_points = {
-			6573 5 
+			6573 5
 		}
-
-
 	}
 
 	provinces={

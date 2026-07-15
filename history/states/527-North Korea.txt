@@ -13,13 +13,10 @@ state={
 			dockyard = 1
 			14225 = {
 				naval_base = 3
-
 			}
-			14219 = {
-				naval_base = 2
-
-			}
-
+		14219 = {
+			naval_base = 2
+		}
 		}
 		victory_points = {
 			14225 3
@@ -27,7 +24,6 @@ state={
 		victory_points = {
 			14219 5
 		}
-
 	}
 	manpower=5564000
 	buildings_max_level_factor=1.000

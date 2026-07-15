@@ -13,7 +13,6 @@ state={
 			air_base = 2
 			14611 = {
 				naval_base = 2
-
 			}
 		}
 		victory_points = {
@@ -30,18 +29,6 @@ state={
 		}
 		victory_points = {
 			14613 5
-		}
-		UNI = {
-			set_province_controller = 2126
-			set_province_controller = 14614
-			set_province_controller = 14602
-		}
-		2002.4.4 = {
-			ANG = {
-				set_province_controller = 2126
-				set_province_controller = 14614
-				set_province_controller = 14602
-			}
 		}
 	}
 

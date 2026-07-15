@@ -7,14 +7,9 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		add_core_of = ZZZ
-		#add_claim_by = SSD
 		buildings = {
 			infrastructure = 2
-
 		}
-
-
 	}
 	manpower=15000
 	state_category=state_level_0

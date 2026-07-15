@@ -17,23 +17,20 @@ state={
 			dockyard = 1
 			14925 = {
 				naval_base = 3
-
 			}
-
 		}
 		victory_points = {
-			14925 30 
+			14925 30
 		}
 		victory_points = {
-			14923 10 
+			14923 10
 		}
 		victory_points = {
-			14912 7 
+			14912 7
 		}
 		victory_points = {
-			14899 7 
+			14899 7
 		}
-
 	}
 
 	provinces={

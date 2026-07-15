@@ -8,8 +8,8 @@ state={
 	}
 
 	history={
-		owner = DRI
-		add_core_of = DRI
+		owner = DPI
+		add_core_of = DPI
 		victory_points = {
 			9764 30 
 		}

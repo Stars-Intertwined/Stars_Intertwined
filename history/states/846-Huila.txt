@@ -6,44 +6,22 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		add_core_of = ZZZ
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 			air_base = 2
 			14594 = {
 				naval_base = 1
-
 			}
-
 		}
 		victory_points = {
-			14594 3 
+			14594 3
 		}
-
 		victory_points = {
-			14595 7 
+			14595 7
 		}
-
 		victory_points = {
-			14589 2 
-		}
-		UNI = {
-			set_province_controller = 14598
-			set_province_controller = 12391
-			set_province_controller = 14589
-			set_province_controller = 14592
-			set_province_controller = 14590
-		}
-		2002.4.4 = {
-			remove_core_of = UNI
-			ANG = {
-				set_province_controller = 14598
-				set_province_controller = 12391
-				set_province_controller = 14589
-				set_province_controller = 14592
-				set_province_controller = 14590
-			}
+			14589 2
 		}
 	}
 

@@ -9,30 +9,16 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		add_core_of = ZZZ
-		add_core_of = ZZZ
-		add_core_of = ZZZ
-		2003.7.18 = {
-			owner = ZZZ
-			remove_core_of = MLC
-			remove_core_of = RCD
-			remove_core_of = RCK
-		}
-		2004.6.2 = {
-			add_dynamic_modifier = { modifier = COG_kivu_conflict }
-		}
 		buildings = {
 			infrastructure = 4
 			air_base = 1
-
 		}
 		victory_points = {
-			14264 7 
+			14264 7
 		}
 		victory_points = {
-			14263 4 
+			14263 4
 		}
-
 	}
 
 	provinces={

@@ -14,15 +14,11 @@ state={
 			infrastructure = 4
 			6407 = {
 				bunker = 1
-
 			}
-			11312 = {
-				bunker = 1
-
-			}
-
+		11312 = {
+			bunker = 1
 		}
-
+		}
 	}
 	manpower=210000
 	buildings_max_level_factor=1.000

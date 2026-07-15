@@ -4,15 +4,12 @@ state={
 	history = {
 		owner = ZZZ
 		add_core_of = ZZZ
-		add_claim_by = ISR
 		set_demilitarized_zone = yes
-		
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
 			4088 = {
 				naval_base = 1
-
 			}
 		}
 		victory_points = { 4088 10 }

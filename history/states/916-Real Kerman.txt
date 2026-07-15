@@ -15,21 +15,19 @@ state={
 			infrastructure = 3
 			industrial_complex = 1
 			air_base = 1
-
 		}
 		victory_points = {
-			16653 4 
+			16653 4
 		}
 		victory_points = {
-			12780 3 
+			12780 3
 		}
 		victory_points = {
-			10913 10 
+			10913 10
 		}
 		victory_points = {
-			16654 2 
+			16654 2
 		}
-
 	}
 
 	provinces={

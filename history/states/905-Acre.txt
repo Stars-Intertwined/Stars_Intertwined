@@ -9,15 +9,12 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		add_claim_by = BOL
 		victory_points = {
 			5216 4
 		}
 		buildings = {
 			infrastructure = 3
-
 		}
-
 	}
 
 	provinces={

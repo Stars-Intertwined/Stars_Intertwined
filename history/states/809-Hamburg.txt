@@ -18,7 +18,7 @@ state={
 			dockyard = 1
 			9347 = { naval_base = 8 }
 		}
-		victory_points = { 9347 35 }	#Hamburg
+		victory_points = { 9347 35 }
 	}
 
 	provinces={

@@ -22,11 +22,8 @@ state={
 			nuclear_reactor = 1
 			271 = {
 				naval_base = 3
-
 			}
-
 		}
-
 	}
 
 	provinces={

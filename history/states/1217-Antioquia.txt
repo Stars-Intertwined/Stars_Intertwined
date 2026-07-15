@@ -15,12 +15,11 @@ state={
 			arms_factory = 1
 		}
 		victory_points = {
-			2023 40 
+			2023 40
 		}
 		victory_points = {
-			16050 20 
+			16050 20
 		}
-
 	}
 
 	provinces={

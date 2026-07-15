@@ -1,45 +1,28 @@
-
 state = {
 	id = 795
 	name = "STATE_795"
 	state_category = town
 
-	resources = {
-		steel = 5.000
-		rubber = 5
-	}
-	history={
+	history = {
 		owner = USA
 		add_core_of = USA
 		buildings = {
-			infrastructure = 7
-			air_base = 2
+			infrastructure = 6
+			air_base = 1
 			industrial_complex = 2
 			arms_factory = 1
-			9832 = {
-				naval_base = 3
-
-			}
-
 		}
-		victory_points = {
-			6909 6
-		}
-		victory_points = {
-			9847 9
-		}
-		victory_points = {
-			9850 10
-		}
-		victory_points = {
-			9832 2
-		}
-
+		victory_points = { 6909 10 }
+		victory_points = { 9847 3 }
 	}
-
+	resources = {
+		rubber = 5
+		steel = 5
+	}
 	provinces = {
-		6909 9832 9847 9850 13612 
+		6909 9832 9847 9850 13612
 	}
 	manpower = 3405000
-	buildings_max_level_factor = 1.000
+	buildings_max_level_factor = 1
+	local_supplies = 0
 }

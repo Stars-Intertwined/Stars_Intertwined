@@ -10,7 +10,7 @@ state={
 		owner = ZZZ
 		add_core_of = ZZZ
 		victory_points = {
-			2196 35 
+			2196 35
 		}
 		buildings = {
 			infrastructure = 5
@@ -18,11 +18,8 @@ state={
 			dockyard = 1
 			2196 = {
 				naval_base = 5
-
 			}
-
 		}
-
 	}
 
 	provinces={

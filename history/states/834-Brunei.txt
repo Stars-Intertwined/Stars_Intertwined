@@ -15,14 +15,11 @@ state={
 			industrial_complex = 2
 			7387 = {
 				naval_base = 3
-
 			}
-
 		}
 		victory_points = {
 			7387 4
 		}
-
 	}
 
 	provinces={

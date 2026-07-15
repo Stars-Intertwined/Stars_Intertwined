@@ -11,29 +11,18 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		add_core_of = ZZZ
-		add_core_of = ZZZ
-		add_core_of = ZZZ
-		2003.7.18 = {
-			remove_core_of = MLC
-			remove_core_of = RCD
-			remove_core_of = RCK
+		victory_points = {
+			10968 3
 		}
 		victory_points = {
-			10968 3 
-		}
-		victory_points = {
-			14981 5 
+			14981 5
 		}
 		buildings = {
 			infrastructure = 4
 			10968 = {
 				naval_base = 2
-
 			}
-
 		}
-
 	}
 	manpower=3325000
 	buildings_max_level_factor=1.000

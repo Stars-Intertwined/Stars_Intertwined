@@ -11,14 +11,13 @@ state={
 			industrial_complex = 2
 			2033 = {
 				naval_base = 2
-
 			}
 		}
 		victory_points = {
-			15554 20 
+			15554 20
 		}
 		victory_points = {
-			2033 2 
+			2033 2
 		}
 	}
 

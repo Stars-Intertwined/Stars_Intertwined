@@ -733,7 +733,7 @@ AAG = {
 	color = rgb { 90 65 25 }
 	color_ui = rgb { 90 65 25 }
 }
-DRI = {
+DPI = {
 	color = rgb { 170 40 30 }
 	color_ui = rgb { 170 40 30 }
 }

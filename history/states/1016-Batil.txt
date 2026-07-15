@@ -8,22 +8,14 @@ state={
 		oil=2.000
 	}
 		history={
-		victory_points = {
-			10804 3 
-		}
 		owner = ZZZ
+		add_core_of = ZZZ
+		victory_points = {
+			10804 3
+		}
 		buildings = {
 			infrastructure = 3
-
 		}
-		add_core_of = ZZZ
-		add_core_of = ZZZ
-		#add_claim_by = KUR
-		2016.5.1 = {
-			owner = ZZZ
-
-		}
-
 	}
 	manpower=487000
 	state_category=state_level_1

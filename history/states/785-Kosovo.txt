@@ -5,37 +5,22 @@ state={
 
 	history={
 		owner = ZZZ
+		add_core_of = ZZZ
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
 			arms_factory = 1
-
 		}
-		add_core_of = ZZZ
-		add_claim_by = SER
 		set_demilitarized_zone = yes
-		2008.1.1 = {
-			buildings = {
-				infrastructure = 4
-				industrial_complex = 3
-				arms_factory = 1
-
-			}
-			owner = ZZZ
-			add_claim_by = SER
-			set_demilitarized_zone = no
-
-		}
 		victory_points = {
-			6940 4 
+			6940 4
 		}
 		victory_points = {
 			9890 1
 		}
 		victory_points = {
-			14789 1 
+			14789 1
 		}
-
 	}
 
 	provinces={

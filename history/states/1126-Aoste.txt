@@ -7,17 +7,12 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		add_core_of = ZZZ
-		add_core_of = ZZZ
-		add_core_of = ZZZ
 		buildings = {
 			infrastructure = 4
-
 		}
 		victory_points = {
-			14802 1 
+			14802 1
 		}
-
 	}
 	manpower=120000
 	buildings_max_level_factor=1.000

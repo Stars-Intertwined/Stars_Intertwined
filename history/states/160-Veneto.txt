@@ -9,13 +9,11 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		add_core_of = ZZZ
-		add_core_of = ZZZ
 		victory_points = {
-			11584 10 
+			11584 10
 		}
 		victory_points = {
-			14807 5 
+			14807 5
 		}
 		victory_points = {
 			603 6
@@ -31,11 +29,8 @@ state={
 			dockyard = 1
 			11584 = {
 				naval_base = 5
-
 			}
-
 		}
-
 	}
 
 	provinces={

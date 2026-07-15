@@ -11,10 +11,10 @@ state={
 		owner = ZZZ
 		add_core_of = ZZZ
 		victory_points = {
-			10212 7 
+			10212 7
 		}
 		victory_points = {
-			12228 4 
+			12228 4
 		}
 		victory_points = {
 			10199 6
@@ -24,19 +24,14 @@ state={
 			industrial_complex = 2
 			10212 = {
 				naval_base = 3
-
 			}
-			10199 = {
-				naval_base = 1
-
-			}
-			12228 = {
-				naval_base = 1
-
-			}
-
+		10199 = {
+			naval_base = 1
 		}
-
+		12228 = {
+			naval_base = 1
+		}
+		}
 	}
 	manpower=2603000
 	buildings_max_level_factor=1.000

@@ -9,7 +9,7 @@ state = {
 		owner = ZZZ
 		add_core_of = ZZZ
 		victory_points = { 6412 2 }
-		victory_points = { 9279 15 }	#Malmö
+		victory_points = { 9279 15 }
 		victory_points = { 11215 2 }
 		buildings = {
 			infrastructure = 7
@@ -20,10 +20,10 @@ state = {
 				naval_base = 5
 				coastal_bunker = 3
 			}
-			9279 = {
-				naval_base = 5
-				coastal_bunker = 1
-			}
+		9279 = {
+			naval_base = 5
+			coastal_bunker = 1
+		}
 		}
 	}
 	

@@ -16,9 +16,7 @@ state={
 		}
 		buildings = {
 			infrastructure = 3
-
 		}
-
 	}
 	manpower=375000
 	buildings_max_level_factor=1.000

@@ -7,16 +7,14 @@ state={
 		owner = ZZZ
 		add_core_of = ZZZ
 		victory_points = {
-			16189 5 
+			16189 5
 		}
 		victory_points = {
 			16187 1
 		}
 		buildings = {
 			infrastructure = 4
-
 		}
-
 	}
 
 	provinces={

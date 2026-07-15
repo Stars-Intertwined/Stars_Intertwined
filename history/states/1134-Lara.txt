@@ -12,26 +12,23 @@ state={
 			arms_factory = 1
 			14927 = {
 				naval_base = 2
-
 			}
-
 		}
 		victory_points = {
 			14927 5
 		}
 		victory_points = {
-			14950 4 
+			14950 4
 		}
 		victory_points = {
-			14943 20 
+			14943 20
 		}
 		victory_points = {
-			14942 2 
+			14942 2
 		}
 		victory_points = {
-			14938 7 
+			14938 7
 		}
-
 	}
 
 	provinces={

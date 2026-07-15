@@ -9,19 +9,17 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		add_core_of = ZZZ
-		add_claim_by = SOV
 		victory_points = {
-			6474 20 
+			6474 20
 		}
 		victory_points = {
-			6420 7 
+			6420 7
 		}
 		victory_points = {
-			502 3 
+			502 3
 		}
 		victory_points = {
-			15409 4 
+			15409 4
 		}
 		buildings = {
 			infrastructure = 5
@@ -29,36 +27,18 @@ state={
 			arms_factory = 1
 			6474 = {
 				bunker = 1
-
 			}
-			6493 = {
-				bunker = 3
-
-			}
-			3421 = {
-				bunker = 3
-
-			}
-			air_base = 2
-			6420 = {
-				naval_base = 3
-
-			}
-
+		6493 = {
+			bunker = 3
 		}
-		2014.4.1 = {
-			owner = ZZZ
-			UKR = {
-				set_province_controller = 6420
-				set_province_controller = 6776
-				set_province_controller = 3449
-				set_province_controller = 3466
-				set_province_controller = 502
-
-			}
-
+		3421 = {
+			bunker = 3
 		}
-
+		air_base = 2
+		6420 = {
+			naval_base = 3
+		}
+		}
 	}
 
 	provinces={

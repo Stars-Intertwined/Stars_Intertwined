@@ -13,14 +13,11 @@ state={
 			infrastructure = 4
 			2115 = {
 				naval_base = 2
-
 			}
-
 		}
 		victory_points = {
-			2115 7 
+			2115 7
 		}
-
 	}
 
 	provinces={

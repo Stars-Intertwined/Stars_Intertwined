@@ -11,13 +11,12 @@ state={
 			industrial_complex = 2
 			arms_factory = 2
 			air_base = 5
-
 		}
 		victory_points = {
-			15268 20 
+			15268 20
 		}
 		victory_points = {
-			15272 10 
+			15272 10
 		}
 		victory_points = {
 			15273 7
@@ -43,7 +42,6 @@ state={
 		victory_points = {
 			10784 1
 		}
-
 	}
 
 	provinces={

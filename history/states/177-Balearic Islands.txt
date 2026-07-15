@@ -5,8 +5,8 @@ state = {
 	state_category = state_level_2
 	
 	history = {
-		owner = DRI
-		add_core_of = DRI
+		owner = DPI
+		add_core_of = DPI
 		victory_points = {
 			9793 10 
 		}

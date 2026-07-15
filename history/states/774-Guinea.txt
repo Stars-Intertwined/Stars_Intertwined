@@ -8,18 +8,16 @@ state={
 		add_core_of = ZZZ
 		buildings = {
 			infrastructure = 2
-
 		}
 		victory_points = {
-			14037 2 
+			14037 2
 		}
 		victory_points = {
-			8008 3 
+			8008 3
 		}
 		victory_points = {
-			14031 4 
+			14031 4
 		}
-
 	}
 
 	provinces={

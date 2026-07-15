@@ -8,8 +8,8 @@ spriteTypes = {
         texturefile = "gfx/interface/goals/USA/USA_reignite_the_american_dream.png"
     }
     SpriteType = {
-        name = "GFX_focus_USA_new_landscape_in_north_america"
-        texturefile = "gfx/interface/goals/USA/USA_new_landscape_in_north_america.png"
+        name = "GFX_focus_USA_america_new_landscape"
+        texturefile = "gfx/interface/goals/USA/USA_america_new_landscape.png"
     }
     SpriteType = {
         name = "GFX_focus_USA_infiltration_united_party"
@@ -24,8 +24,8 @@ spriteTypes = {
         texturefile = "gfx/interface/goals/USA/USA_empowering_media_alliance.png"
     }
     SpriteType = {
-        name = "GFX_focus_USA_uphold_the_image_of_justice"
-        texturefile = "gfx/interface/goals/USA/USA_uphold_the_image_of_justice.png"
+        name = "GFX_focus_USA_uphold_justice_image"
+        texturefile = "gfx/interface/goals/USA/USA_uphold_justice_image.png"
     }
     SpriteType = {
         name = "GFX_focus_USA_policy_coordination_initiative"

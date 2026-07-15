@@ -5,19 +5,17 @@ state={
 
 	history={
 		owner = ZZZ
-		add_claim_by = BOL
+		add_core_of = ZZZ
 		buildings = {
 			infrastructure = 3
 			air_base = 1
 			13450 = {
 				naval_base = 1
-
 			}
 		}
 		victory_points = {
 			13450 4
 		}
-
 	}
 
 	provinces={

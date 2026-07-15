@@ -12,37 +12,37 @@ state={
 		add_core_of = ZZZ
 		add_extra_state_shared_building_slots = 1
 		victory_points = {
-			10265 70 
+			10265 70
 		}
 		victory_points = {
-			16829 4 
+			16829 4
 		}
 		victory_points = {
 			10165 3
 		}
 		victory_points = {
-			1288 2 
+			1288 2
 		}
 		victory_points = {
 			16832 1
 		}
 		victory_points = {
-			16831 15  
+			16831 15
 		}
 		victory_points = {
 			7351 4
 		}
 		victory_points = {
-			7323 5 
+			7323 5
 		}
 		victory_points = {
-			12253 19 
+			12253 19
 		}
 		victory_points = {
-			16830 7 
+			16830 7
 		}
 		victory_points = {
-			12236 3 
+			12236 3
 		}
 		buildings = {
 			infrastructure = 6
@@ -52,19 +52,14 @@ state={
 			air_base = 6
 			10265 = {
 				naval_base = 8
-
 			}
-			7351 = {
-				naval_base = 4
-
-			}
-			16829 = {
-				naval_base = 3
-
-			}
-
+		7351 = {
+			naval_base = 4
 		}
-
+		16829 = {
+			naval_base = 3
+		}
+		}
 	}
 
 	provinces={

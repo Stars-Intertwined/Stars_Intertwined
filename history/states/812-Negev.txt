@@ -9,7 +9,6 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		add_claim_by = PAL
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
@@ -19,41 +18,33 @@ state={
 			1015 = {
 				bunker = 2
 				naval_base = 1
-
 			}
-			7176 = {
-				bunker = 1
-
-			}
-			11970 = {
-				bunker = 2
-
-			}
-			13218 = {
-				bunker = 1
-				naval_base = 4
-
-			}
-			13219 = {
-				bunker = 2
-
-			}
-			13220 = {
-				bunker = 1
-
-			}
-
+		7176 = {
+			bunker = 1
+		}
+		11970 = {
+			bunker = 2
+		}
+		13218 = {
+			bunker = 1
+			naval_base = 4
+		}
+		13219 = {
+			bunker = 2
+		}
+		13220 = {
+			bunker = 1
+		}
 		}
 		victory_points = {
-			1015 2 
+			1015 2
 		}
 		victory_points = {
-			13218 5 
+			13218 5
 		}
 		victory_points = {
-			7176 4 
+			7176 4
 		}
-
 	}
 
 	provinces={

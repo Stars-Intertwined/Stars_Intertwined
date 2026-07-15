@@ -12,8 +12,8 @@ state={
 			dockyard = 1
 			599 = { naval_base = 2 }
 		}
-		victory_points = { 599 2 }		#Koper
-		victory_points = { 11595 1 }	#Nova Gorica
+		victory_points = { 599 2 }
+		victory_points = { 11595 1 }
 	}
 	
 	provinces={

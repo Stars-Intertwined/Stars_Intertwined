@@ -7,16 +7,16 @@ state={
 		owner = ZZZ
 		add_core_of = ZZZ
 		victory_points = {
-			15726 12 
+			15726 12
 		}
 		victory_points = {
-			15725 10 
+			15725 10
 		}
 		victory_points = {
-			15723 10 
+			15723 10
 		}
 		victory_points = {
-			15724 5 
+			15724 5
 		}
 		buildings = {
 			infrastructure = 5
@@ -24,30 +24,23 @@ state={
 			industrial_complex = 1
 			15722 = {
 				bunker = 2
-
 			}
-			15726 = {
-				bunker = 2
-
-			}
-			15725 = {
-				bunker = 2
-
-			}
-			15723 = {
-				bunker = 2
-
-			}
-			15724 = {
-				bunker = 2
-
-			}
-			10660 = {
-				bunker = 2
-
-			}
+		15726 = {
+			bunker = 2
 		}
-
+		15725 = {
+			bunker = 2
+		}
+		15723 = {
+			bunker = 2
+		}
+		15724 = {
+			bunker = 2
+		}
+		10660 = {
+			bunker = 2
+		}
+		}
 	}
 
 	provinces={

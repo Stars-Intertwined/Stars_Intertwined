@@ -11,14 +11,11 @@ state={
 			infrastructure = 3
 			1237 = {
 				naval_base = 1
-
 			}
-
 		}
 		victory_points = {
-			1237 1 
+			1237 1
 		}
-
 	}
 	manpower=36000
 	buildings_max_level_factor=1.000

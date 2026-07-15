@@ -7,14 +7,12 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		add_core_of = ZZZ
 		buildings = {
 			infrastructure = 5
 			arms_factory = 1
-
 		}
 		victory_points = {
-			4046 10 
+			4046 10
 		}
 	}
 	manpower=1202000

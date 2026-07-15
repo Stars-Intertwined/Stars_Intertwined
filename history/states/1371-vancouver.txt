@@ -1,0 +1,30 @@
+state = {
+	id = 1371
+	name = "STATE_1371"
+	state_category = town
+
+	history = {
+		owner = USA
+		add_core_of = USA
+		buildings = {
+			infrastructure = 7
+			air_base = 3
+			industrial_complex = 5
+			arms_factory = 2
+			dockyard = 2
+		}
+		victory_points = { 1408 15 }
+		victory_points = { 4428 5 }
+	}
+	resources = {
+		aluminium = 25
+		rubber = 5
+		steel = 10
+	}
+	provinces = {
+		1393 1408 4413 4428 13698
+	}
+	manpower = 832100
+	buildings_max_level_factor = 1
+	local_supplies = 0
+}

@@ -9,12 +9,10 @@ state={
 		buildings = {
 			infrastructure = 3
 			air_base = 2
-
 		}
 		victory_points = {
-			14433 10 
+			14433 10
 		}
-
 	}
 
 	provinces={

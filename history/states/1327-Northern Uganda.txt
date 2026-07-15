@@ -9,12 +9,10 @@ state={
 		add_core_of = ZZZ
 		buildings = {
 			infrastructure = 3
-
 		}
 		victory_points = {
-			8223 3 
+			8223 3
 		}
-
 	}
 
 	manpower=3000000

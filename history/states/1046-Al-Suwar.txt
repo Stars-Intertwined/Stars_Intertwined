@@ -9,16 +9,10 @@ state={
 	}
 	history={
 		owner = ZZZ
+		add_core_of = ZZZ
 		buildings = {
 			infrastructure = 2
-
 		}
-		add_core_of = ZZZ
-		2016.5.1 = {
-			owner = ZZZ
-
-		}
-
 	}
 	manpower=290000
 	buildings_max_level_factor=1.000

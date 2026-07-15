@@ -24,11 +24,8 @@ state={
 			air_base = 2
 			9783 = {
 				naval_base = 3
-
 			}
-
 		}
-
 	}
 
 	manpower=1222000

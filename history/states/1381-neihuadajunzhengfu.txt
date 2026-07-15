@@ -1,16 +1,27 @@
-state={
-	id=1381
-	name="STATE_1381"
+state = {
+	id = 1381
+	name = "STATE_1381"
 	state_category = town
 
 	history = {
 		owner = USA
 		add_core_of = USA
+		buildings = {
+			infrastructure = 6
+			air_base = 3
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		victory_points = { 505 10 }
 	}
-	provinces={
-		505 528 3471 10151 11495 11733 12281 
+	resources = {
+		oil = 5
+		aluminium = 10
 	}
-	manpower=0
-	buildings_max_level_factor=1
-	local_supplies=0
+	provinces = {
+		505 528 3471 10151 11495 11733 12281
+	}
+	manpower = 2200000
+	buildings_max_level_factor = 1
+	local_supplies = 0
 }

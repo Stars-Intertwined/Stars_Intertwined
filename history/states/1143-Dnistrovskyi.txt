@@ -7,12 +7,9 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		add_core_of = ZZZ
 		buildings = {
 			infrastructure = 4
-
 		}
-
 	}
 	manpower=185000
 	state_category=state_level_0

@@ -6,16 +6,13 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		add_core_of = ZZZ
 		victory_points = {
-			15419 5 
+			15419 5
 		}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
-
 		}
-
 	}
 
 	provinces={

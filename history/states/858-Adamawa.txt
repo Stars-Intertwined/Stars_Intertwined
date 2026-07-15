@@ -9,53 +9,22 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		add_core_of = ZZZ
-		add_core_of = ZZZ
-		add_core_of = ZZZ
-		RCD = {
-			set_province_controller = 14299
-			set_province_controller = 14296
-			set_province_controller = 14291
-			set_province_controller = 14292
-			set_province_controller = 8016
-			set_province_controller = 1731
-			set_province_controller = 14231
-			set_province_controller = 14287
-			set_province_controller = 14273
-		}
-		2003.7.18 = {
-			remove_core_of = MLC
-			remove_core_of = RCD
-			remove_core_of = RCK
-			COG = {
-				set_province_controller = 14299
-				set_province_controller = 14296
-				set_province_controller = 14291
-				set_province_controller = 14292
-				set_province_controller = 8016
-				set_province_controller = 1731
-				set_province_controller = 14231
-				set_province_controller = 14287
-				set_province_controller = 14273
-			}
-		}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 			air_base = 1
-
 		}
 		victory_points = {
-			14320 5 
+			14320 5
 		}
 		victory_points = {
-			14276 10 
+			14276 10
 		}
 		victory_points = {
-			14274 20 
+			14274 20
 		}
 		victory_points = {
-			14967 2 
+			14967 2
 		}
 		victory_points = {
 			9986 3
@@ -63,7 +32,6 @@ state={
 		victory_points = {
 			1731 1
 		}
-		
 	}
 
 	provinces={

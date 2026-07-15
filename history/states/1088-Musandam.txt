@@ -9,9 +9,7 @@ state={
 		add_core_of = ZZZ
 		buildings = {
 			infrastructure = 2
-
 		}
-
 	}
 	manpower=28000
 	buildings_max_level_factor=1.000

@@ -3,27 +3,20 @@ state = {
 	name = "STATE_1090"
 	state_category = town
 
-	provinces = {
-		11830 
-	}
-	history={
+	history = {
 		owner = USA
 		add_core_of = USA
 		buildings = {
-			infrastructure = 7
+			infrastructure = 4
+			air_base = 1
 			industrial_complex = 1
-			dockyard = 1
-			11830 = {
-				naval_base = 4
-
-			}
-
 		}
-		victory_points = {
-			11830 10
-		}
-
+		victory_points = { 11830 3 }
+	}
+	provinces = {
+		11830
 	}
 	manpower = 1048000
-	buildings_max_level_factor = 1.000
+	buildings_max_level_factor = 1
+	local_supplies = 0
 }

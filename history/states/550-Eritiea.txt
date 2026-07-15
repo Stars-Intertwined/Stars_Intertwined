@@ -5,7 +5,7 @@ state={
 
 	history={
 		owner = ZZZ
-		add_claim_by = ETH
+		add_core_of = ZZZ
 		victory_points = {
 			15440 10
 		}
@@ -19,15 +19,11 @@ state={
 			air_base = 3
 			15437 = {
 				bunker = 3
-
 			}
-			12723 = {
-				bunker = 2
-
-			}
-
+		12723 = {
+			bunker = 2
 		}
-
+		}
 	}
 
 	provinces={

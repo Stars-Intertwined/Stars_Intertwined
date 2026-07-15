@@ -4,25 +4,21 @@ state={
 
 	history={
 		owner = ZZZ
-		add_claim_by = ETH
+		add_core_of = ZZZ
 		victory_points = {
-			8043 1 
+			8043 1
 		}
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 0
 			15436 = {
 				bunker = 2
-
 			}
-			8043 = {
-				bunker = 2
-				naval_base = 1
-
-			}
-
+		8043 = {
+			bunker = 2
+			naval_base = 1
 		}
-
+		}
 	}
 
 	provinces={

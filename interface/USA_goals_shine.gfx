@@ -64,11 +64,11 @@ spriteTypes = {
 	}
 
 	SpriteType = {
-		name = "GFX_focus_USA_new_landscape_in_north_america_shine"
-		texturefile = "gfx/interface/goals/USA/USA_new_landscape_in_north_america.png"
+		name = "GFX_focus_USA_america_new_landscape_shine"
+		texturefile = "gfx/interface/goals/USA/USA_america_new_landscape.png"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/USA/USA_new_landscape_in_north_america.png"
+			animationmaskfile = "gfx/interface/goals/USA/USA_america_new_landscape.png"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -81,7 +81,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/USA/USA_new_landscape_in_north_america.png"
+			animationmaskfile = "gfx/interface/goals/USA/USA_america_new_landscape.png"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no
@@ -192,11 +192,11 @@ spriteTypes = {
 	}
 
 	SpriteType = {
-		name = "GFX_focus_USA_uphold_the_image_of_justice_shine"
-		texturefile = "gfx/interface/goals/USA/USA_uphold_the_image_of_justice.png"
+		name = "GFX_focus_USA_uphold_justice_image_shine"
+		texturefile = "gfx/interface/goals/USA/USA_uphold_justice_image.png"
 		effectFile = "gfx/FX/buttonstate.lua"
 		animation = {
-			animationmaskfile = "gfx/interface/goals/USA/USA_uphold_the_image_of_justice.png"
+			animationmaskfile = "gfx/interface/goals/USA/USA_uphold_justice_image.png"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = -90.0
 			animationlooping = no
@@ -209,7 +209,7 @@ spriteTypes = {
 		}
 
 		animation = {
-			animationmaskfile = "gfx/interface/goals/USA/USA_uphold_the_image_of_justice.png"
+			animationmaskfile = "gfx/interface/goals/USA/USA_uphold_justice_image.png"
 			animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
 			animationrotation = 90.0
 			animationlooping = no

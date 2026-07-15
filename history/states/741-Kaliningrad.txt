@@ -10,15 +10,15 @@ state={
 		buildings = {
 			infrastructure = 6
 			air_base = 4
-			6332 = { 
-				naval_base = 6 
-				bunker = 1	
+			6332 = {
+				naval_base = 6
+				bunker = 1
 			}
-			281 = { bunker = 1 }
-			348 = { bunker = 1 }
-			395 = { bunker = 1 }
-			3384 = { bunker = 1 }
-			11265 = { bunker = 1 }
+		281 = { bunker = 1 }
+		348 = { bunker = 1 }
+		395 = { bunker = 1 }
+		3384 = { bunker = 1 }
+		11265 = { bunker = 1 }
 		}
 	}
 	provinces={

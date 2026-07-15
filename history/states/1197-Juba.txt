@@ -6,47 +6,22 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		add_core_of = ZZZ
-		add_core_of = ZZZ
-		add_core_of = ZZZ
-		add_core_of = ZZZ
-		JVA = {
-			set_province_controller = 15820
-			set_province_controller = 15821
-			set_province_controller = 15838
-		}
-		2016.1.1 = {
-			owner = ZZZ
-			remove_core_of = JVA
-			remove_core_of = SNA
-			SOM = {
-				set_province_controller = 15838
-			}
-			SPF = {
-				set_province_controller = 15820
-				set_province_controller = 15821
-				set_province_controller = 15839
-			}
-		}
 		buildings = {
 			infrastructure = 3
 			air_base = 1
 			15835 = {
 				naval_base = 2
-
 			}
-
 		}
 		victory_points = {
-			15836 1 
+			15836 1
 		}
 		victory_points = {
-			15820 1 
+			15820 1
 		}
 		victory_points = {
-			15835 3 
+			15835 3
 		}
-
 	}
 
 	provinces={

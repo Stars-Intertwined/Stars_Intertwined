@@ -6,12 +6,9 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		add_claim_by = VEN
 		buildings = {
 			infrastructure = 2
-
 		}
-
 	}
 
 	provinces={

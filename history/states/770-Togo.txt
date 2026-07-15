@@ -11,7 +11,6 @@ state={
 			industrial_complex = 1
 			1951 = {
 				naval_base = 1
-
 			}
 		}
 		victory_points = {
@@ -20,7 +19,6 @@ state={
 		victory_points = {
 			12843 2
 		}
-
 	}
 
 	provinces={

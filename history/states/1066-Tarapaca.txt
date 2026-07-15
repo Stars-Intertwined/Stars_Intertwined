@@ -7,19 +7,16 @@ state={
 	}
 	history={
 		owner = ZZZ
-		add_claim_by = BOL
+		add_core_of = ZZZ
 		buildings = {
 			infrastructure = 3
 			13448 = {
 				naval_base = 1
-
 			}
-
 		}
 		victory_points = {
 			13448 6
 		}
-
 	}
 
 	manpower=236000

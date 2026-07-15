@@ -9,53 +9,31 @@ state={
 
 	history={
 		owner = ZZZ
-		victory_points = {
-			15599 20 
-		}
-		victory_points = {
-			15598 12 
-		}
-		victory_points = {
-			15600 8 
-		}
-		victory_points = {
-			5014 3 
-		}
-		victory_points = {
-			15596 3 
-		}
-		victory_points = {
-			15597 2 
-		}
 		add_core_of = ZZZ
-		add_claim_by = IRQ
+		victory_points = {
+			15599 20
+		}
+		victory_points = {
+			15598 12
+		}
+		victory_points = {
+			15600 8
+		}
+		victory_points = {
+			5014 3
+		}
+		victory_points = {
+			15596 3
+		}
+		victory_points = {
+			15597 2
+		}
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 1
 			arms_factory = 1
 			air_base = 2
-
 		}
-		2015.5.1 = {
-			owner = ZZZ
-			buildings = {
-				10804 = {
-					bunker = 1
-
-				}
-				10811 = {
-					bunker = 1
-
-				}
-				6826 = {
-					bunker = 1
-
-				}
-
-			}
-
-		}
-
 	}
 
 	provinces={

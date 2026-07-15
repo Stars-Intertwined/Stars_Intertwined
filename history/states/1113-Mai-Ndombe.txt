@@ -6,22 +6,12 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		add_core_of = ZZZ
-		add_core_of = ZZZ
-		add_core_of = ZZZ
-		2003.7.18 = {
-			remove_core_of = MLC
-			remove_core_of = RCD
-			remove_core_of = RCK
-		}
 		buildings = {
 			infrastructure = 2
-
 		}
 		victory_points = {
-			12775 1 
+			12775 1
 		}
-
 	}
 
 	provinces={

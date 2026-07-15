@@ -13,11 +13,8 @@ state={
 			infrastructure = 1
 			12530 = {
 				naval_base = 1
-
 			}
-
 		}
-
 	}
 
 	provinces={

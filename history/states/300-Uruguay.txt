@@ -8,7 +8,7 @@ state={
 		owner = ZZZ
 		add_core_of = ZZZ
 		victory_points = {
-			10362 25 
+			10362 25
 		}
 		victory_points = {
 			1654 3
@@ -30,18 +30,15 @@ state={
 				naval_base = 6
 				bunker = 1
 				coastal_bunker = 1
-
 			}
-			10347 = {
-				bunker = 1 #Fortaleza de Santa Teresa and Fuerte de San Miguel
-			}
-			1654 = {
-				naval_base = 1
-			}
-			12496 = { dam = 1 } #Rincón del Bonete
-
+		10347 = {
+			bunker = 1 #Fortaleza de Santa Teresa and Fuerte de San Miguel
 		}
-
+		1654 = {
+			naval_base = 1
+		}
+		12496 = { dam = 1 } #Rincón del Bonete
+		}
 	}
 	provinces={
 		1641 1654 4457 10347 10362 12481 12496 13419 

@@ -27,15 +27,11 @@ state={
 			air_base = 2
 			4641 = {
 				naval_base = 4
-
 			}
-			15512 = {
-				naval_base = 2
-
-			}
-
+		15512 = {
+			naval_base = 2
 		}
-
+		}
 	}
 
 	provinces={

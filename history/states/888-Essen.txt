@@ -18,19 +18,18 @@ state={
 			industrial_complex = 7
 			arms_factory = 1
 			synthetic_refinery = 1
-
 		}
 		victory_points = {
-			6469 20 
+			6469 20
 		}
 		victory_points = {
-			6570 7 
+			6570 7
 		}
 		victory_points = {
-			15213 15 
+			15213 15
 		}
 		victory_points = {
-			15211 25 
+			15211 25
 		}
 	}
 

@@ -12,11 +12,8 @@ state={
 			industrial_complex = 3
 			11829 = {
 				naval_base = 7
-
 			}
-
 		}
-
 	}
 
 	provinces={

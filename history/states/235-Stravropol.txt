@@ -16,18 +16,16 @@ state={
 			15487 3
 		}
 		victory_points = {
-			11678 5 
+			11678 5
 		}
 		victory_points = {
-			6750 1 
+			6750 1
 		}
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
 			air_base = 4
-
 		}
-
 	}
 
 	provinces={

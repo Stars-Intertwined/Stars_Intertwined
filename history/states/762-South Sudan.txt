@@ -9,56 +9,19 @@ state={
 	history={
 		owner = ZZZ
 		add_core_of = ZZZ
-		add_core_of = ZZZ
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
 			arms_factory = 1
-
-		}
-		SUD = {
-			set_province_controller = 10857
-			set_province_controller = 15346
-			set_province_controller = 15345
-			set_province_controller = 15341
-			set_province_controller = 4033
-			set_province_controller = 15343
-			set_province_controller = 10908
-			set_province_controller = 15340
-			set_province_controller = 15347
-			set_province_controller = 15350
-			set_province_controller = 12744
-		}
-		2011.6.1 = {
-			owner = ZZZ
-			SSD = {
-				set_province_controller = 10857
-				set_province_controller = 15346
-				set_province_controller = 15345
-				set_province_controller = 15341
-				set_province_controller = 4033
-				set_province_controller = 15343
-				set_province_controller = 10908
-				set_province_controller = 15340
-				set_province_controller = 15347
-				set_province_controller = 15350
-				set_province_controller = 12744
-			}
-			buildings = {
-				infrastructure = 3
-				industrial_complex = 3
-				arms_factory = 1
-			}
-
 		}
 		victory_points = {
-			15330 4 
+			15330 4
 		}
 		victory_points = {
-			15341 2 
+			15341 2
 		}
 		victory_points = {
-			15331 2 
+			15331 2
 		}
 	}
 

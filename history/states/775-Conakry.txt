@@ -17,17 +17,14 @@ state={
 			air_base = 1
 			14034 = {
 				naval_base = 2
-
 			}
-
 		}
 		victory_points = {
-			14034 12 
+			14034 12
 		}
 		victory_points = {
-			14033 2 
+			14033 2
 		}
-
 	}
 
 	provinces={

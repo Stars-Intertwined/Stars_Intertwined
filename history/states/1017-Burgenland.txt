@@ -10,9 +10,7 @@ state={
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1
-
 		}
-
 	}
 	manpower=277000
 	buildings_max_level_factor=1.000
