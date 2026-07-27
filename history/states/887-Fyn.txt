@@ -5,8 +5,8 @@ state={
 		3325 3374 
 	}
 	history = {
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = OSA
+		add_core_of = OSA
 		victory_points = { 3325 5 }
 		buildings = {
 			infrastructure = 9

@@ -5,8 +5,8 @@ state={
 	manpower = 854
 	state_category = state_level_1
 	history={
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = FCD
+		add_core_of = FCD
 		buildings = {
 			infrastructure = 6
 		}

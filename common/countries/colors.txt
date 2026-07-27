@@ -710,8 +710,8 @@ D75 = {
 }
 #欧洲TAG
 ERU = {
-	color = rgb { 45 45 150 }
-	color_ui = rgb { 45 45 150 }
+	color = rgb { 40 40 130 }
+	color_ui = rgb { 40 40 130 }
 }
 FND = {
 	color = rgb { 36 10 105 }
@@ -734,8 +734,8 @@ AAG = {
 	color_ui = rgb { 90 65 25 }
 }
 DPI = {
-	color = rgb { 170 40 30 }
-	color_ui = rgb { 170 40 30 }
+	color = rgb { 160 45 30 }
+	color_ui = rgb { 160 45 30 }
 }
 SNI = {
 	color = rgb { 31 26 53 }
@@ -749,6 +749,67 @@ AFS = {
 	color = rgb { 154 184 201 }
 	color_ui = rgb { 154 184 201 }
 }
+BDF = {
+	color = rgb { 150 20 40 }
+	color_ui = rgb { 150 20 40 }
+}
+FSL = {
+	color = rgb { 30 63 33 }
+	color_ui = rgb { 30 63 33 }
+}
+BGC = {
+	color = rgb { 40 17 83 }
+	color_ui = rgb { 40 17 83 }
+}
+FCD = {
+	color = rgb { 196 190 138 }
+	color_ui = rgb { 196 190 138 }
+}
+IRL = {
+	color = rgb { 55 70 40 }
+	color_ui = rgb { 55 70 40 }
+}
+ITA = {
+	color = rgb { 53 114 68 }
+	color_ui = rgb { 53 114 68 }
+}
+SWS = {
+	color = rgb { 187 57 57 }
+	color_ui = rgb { 187 57 57 }
+}
+FSZ = {
+	color = rgb { 40 40 130 }
+	color_ui = rgb { 40 40 130 }
+}
+FDG = {
+	color = rgb { 83 55 102 }
+	color_ui = rgb { 83 55 102 }
+}
+BJG = {
+	color = rgb { 130 130 90 }
+	color_ui = rgb { 130 130 90 }
+}
+CZE = {
+	color = rgb { 30 30 60 }
+	color_ui = rgb { 30 30 60 }
+}
+PRS = {
+	color = rgb { 131 115 91 }
+	color_ui = rgb { 131 115 91 }
+}
+TUC = {
+	color = rgb { 100 30 30 }
+	color_ui = rgb { 100 30 30 }
+}
+OSA = {
+	color = rgb { 120 106 134 }
+	color_ui = rgb { 120 106 134 }
+}
+HCV = {
+	color = rgb { 116 116 100 }
+	color_ui = rgb { 116 116 100 }
+}
+
 #东亚地区
 CSR = {
 	color = rgb { 185 35 35 }

@@ -7,8 +7,8 @@ state = {
 		rubber=10.000
 	}		
 	history = {
-		owner = FND
-		add_core_of = FND
+		owner = ETB
+		add_core_of = ETB
 		victory_points = { 9434 5 } #Le Havre
 		victory_points = { 6449 2 } #Cherbourg
 		victory_points = { 11563 3 } #Rouen

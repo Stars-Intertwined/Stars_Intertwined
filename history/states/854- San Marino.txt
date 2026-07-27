@@ -7,8 +7,8 @@ state={
 	state_category = state_level_1
 
 	history={
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = FCD
+		add_core_of = FCD
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1

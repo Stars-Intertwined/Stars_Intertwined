@@ -115,17 +115,42 @@ MNR = "countries/MNR.txt"
 
 ZZZ = "countries/ZZZ.txt"
 
-#欧洲
-ERU = "countries/ERU.txt"
-FND = "countries/FND.txt"
-ETB = "countries/ETB.txt"
-AAG = "countries/AAG.txt"
-VCD = "countries/VCD.txt"
-SNC = "countries/SNC.txt"
-DPI = "countries/DPI.txt"
-SNI = "countries/SNI.txt"
-PPR = "countries/PPR.txt"
-AFS = "countries/AFS.txt"
+#欧洲核心区（法国——低地）
+ERU = "countries/ERU.txt"#欧洲危机状态理事会-欧洲联盟命运共同体
+FND = "countries/FND.txt"#法兰西国防军
+ETB = "countries/ETB.txt"#永生布列塔尼
+AAG = "countries/AAG.txt"#阿基坦安保集团
+VCD = "countries/VCD.txt"#先锋海岸防卫军
+SNC = "countries/SNC.txt"#南方十字
+
+#伊比利亚
+DPI = "countries/DPI.txt"#伊比利亚共和政府——伊比利亚国际联队——伊比利亚人民民主共和国
+SNI = "countries/SNI.txt"#伊比利亚至上民族国
+PPR = "countries/PPR.txt"#葡萄牙人民抵抗阵线
+AFS = "countries/AFS.txt"#安达卢西亚自由邦
+
+#英国
+BDF = "countries/BDF.txt"#不列颠自卫警备队
+FSL = "countries/FSL.txt"#自由苏格兰军团
+BGC = "countries/BGC.txt"#不列颠护国委员会
+IRL = "countries/IRL.txt"#永恒爱尔兰共和国
+
+#意大利
+FCD = "countries/FCD.txt"#虔诚者圣约国
+ITA = "countries/ITA.txt"#北意大利联军政府——意大利联合游击纵队——意大利共和国
+SWS = "countries/SWS.txt"#瑞士联邦防卫委员会
+
+#中欧
+FSZ = "countries/FSZ.txt"#最后警备区
+FDG = "countries/FDG.txt"#德意志未来统辖区
+BJG = "countries/BJG.txt"#巴伐利亚神裁护国军
+CZE = "countries/CZE.txt"#波希米亚边区
+PRS = "countries/PRS.txt"#“囚徒锁拷”
+TUC = "countries/TUC.txt"#不净者审判庭
+OSA = "countries/OSA.txt"#厄勒海峡同盟
+HCV = "countries/HCV.txt"#维也纳遗产协约
+
+
 
 #东亚
 CSR = "countries/CSR.txt"#辰曦社会主义联盟共和国

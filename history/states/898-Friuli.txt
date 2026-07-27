@@ -10,8 +10,8 @@ state={
 	628 9613 3657	
 	}
 	history={
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = ITA
+		add_core_of = ITA
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1

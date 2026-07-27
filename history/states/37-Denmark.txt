@@ -7,8 +7,8 @@ state={
 	}
 
 	history={
-		owner = ZZZ
-		add_core_of = ZZZ
+		owner = OSA
+		add_core_of = OSA
 		add_extra_state_shared_building_slots = 1
 		victory_points = {
 			6287 25
