@@ -7,7 +7,9 @@ state = {
 		owner = ORZ
 		add_core_of = ORZ
 	}
-
+	resources={
+		aluminium=10.000
+	}
 	provinces = {
 		1769 4775 4875 7794 7899 13094 13161 13765 13767 13769 13770 13771 13772 13773 13774 16916
 	}

@@ -9,8 +9,8 @@ state={
 	}
 
 	history={
-		owner = PRS
-		add_core_of = PRS
+		owner = NGT
+		add_core_of = NGT
 		add_extra_state_shared_building_slots = 1
 		victory_points = {
 			495 20

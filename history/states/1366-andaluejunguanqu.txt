@@ -7,7 +7,10 @@ state = {
 		owner = MCZ
 		add_core_of = MCZ
 	}
-
+	resources = {
+		oil = 2
+		steel = 1
+	}
 	provinces = {
 		6728 7185 7782 9615 10605 13760 13761 13163 13182 
 	}

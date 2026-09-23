@@ -7,7 +7,9 @@ state = {
 		owner = CAN
 		add_core_of = CAN
 	}
-
+	resources={
+		aluminium=15.000
+	}
 	provinces = {
 		602 777 1299 1782 4784 4869 7366 9467 9480 9740 10621 10718 12278 12582 12701 13764 13766 13768 
 	}

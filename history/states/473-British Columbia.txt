@@ -8,9 +8,8 @@ state = {
 		add_core_of = NFC
 	}	
 	resources = {
-		aluminium = 30
-		oil = 3
-		rubber = 4
+		aluminium = 15
+		oil = 2
 	}
 	provinces = {
 		917 1872 4678 5403 12508 13694 13695 13731 

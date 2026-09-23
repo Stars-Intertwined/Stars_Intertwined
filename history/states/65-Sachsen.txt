@@ -7,8 +7,8 @@ state={
 	}
 
 	history={
-		owner = FDG
-		add_core_of = FDG
+		owner = NGT
+		add_core_of = NGT
 		victory_points = {
 			6559 20
 		}

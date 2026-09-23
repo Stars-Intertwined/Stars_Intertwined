@@ -21,7 +21,7 @@ state = {
 		1767 3769 4857 4863 7760 7880 7883 10552 10587 10593 10624 10706 12603 13738 13739 13740 13741
 		13742 13746
 	}
-	manpower = 903773
+	manpower = 843801
 	buildings_max_level_factor = 1
 	local_supplies = 0
 }

@@ -7,7 +7,9 @@ state = {
 		owner = MRZ
 		add_core_of = MRZ
 	}
-
+	resources = {
+		oil = 3
+	}
 	provinces = {
 		3721 4218 4426 4872 5119 12636 12688 13744 13748 13751 13752 
 	}

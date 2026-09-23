@@ -6,11 +6,16 @@ state = {
 	history = {
 		owner = BCZ
 		add_core_of = BCZ
-	}	
+	}
+	resources = {
+		aluminium = 10
+		oil = 2
+		rubber = 2
+	}		
 	provinces = {
 		1301 1323 1411 1737 1799 4870 7412 7761 10228 10548 10644 12571 13720 13722 13726 16912 16914
 	}
-	manpower = 50000
+	manpower = 575000
 	buildings_max_level_factor = 1
 	local_supplies = 0
 }

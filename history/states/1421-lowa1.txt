@@ -1,6 +1,6 @@
 state = {
-	id = 1381
-	name = "STATE_1381"
+	id = 1421
+	name = "STATE_1421"
 	state_category = town
 
 	history = {
@@ -8,20 +8,21 @@ state = {
 		add_core_of = USA
 		buildings = {
 			infrastructure = 6
-			air_base = 3
-			industrial_complex = 3
+			air_base = 2
+			industrial_complex = 4
 			arms_factory = 1
 		}
-		victory_points = { 505 10 }
+		victory_points = { 1831 10 }
+		victory_points = { 4664 3 }
 	}
 	resources = {
 		oil = 5
-		aluminium = 10
+		steel = 15
 	}
 	provinces = {
-		505 528 3471 10151 11495 11733 12281
+		1831 4664 4691 4807 7536 11971 12418 16917
 	}
-	manpower = 2200000
+	manpower = 1433512
 	buildings_max_level_factor = 1
 	local_supplies = 0
 }

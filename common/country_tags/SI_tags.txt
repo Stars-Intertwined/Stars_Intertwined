@@ -140,9 +140,8 @@ FCD = "countries/FCD.txt"#虔诚者圣约国
 ITA = "countries/ITA.txt"#北意大利联军政府——意大利联合游击纵队——意大利共和国
 SWS = "countries/SWS.txt"#瑞士联邦防卫委员会
 
-#中欧
-FSZ = "countries/FSZ.txt"#最后警备区
-FDG = "countries/FDG.txt"#德意志未来统辖区
+#德国混战
+NGT = "countries/NGT.txt"#北德意志统辖区
 BJG = "countries/BJG.txt"#巴伐利亚神裁护国军
 CZE = "countries/CZE.txt"#波希米亚边区
 PRS = "countries/PRS.txt"#“囚徒锁拷”
@@ -150,7 +149,11 @@ TUC = "countries/TUC.txt"#不净者审判庭
 OSA = "countries/OSA.txt"#厄勒海峡同盟
 HCV = "countries/HCV.txt"#维也纳遗产协约
 
-
+#欧罗巴秩序协定
+SER = "countries/SER.txt"#俄罗斯至上帝国
+PHC = "countries/PHC.txt"#波兰圣翼骑兵团
+SNT = "countries/SNT.txt"#斯洛伐克民族统辖区
+BNT = "countries/BNT.txt"#波罗的民族统辖区
 
 #东亚
 CSR = "countries/CSR.txt"#辰曦社会主义联盟共和国

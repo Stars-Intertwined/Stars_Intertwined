@@ -7,8 +7,8 @@ state={
 	}
 
 	history={
-		owner = FDG
-		add_core_of = FDG
+		owner = NGT
+		add_core_of = NGT
 		add_extra_state_shared_building_slots = 1
 		victory_points = {
 			6521 50
