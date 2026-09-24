@@ -1,0 +1,7 @@
+spriteTypes = {
+	# 该文件用于注册超事件图片 / Cz
+	spriteType = {
+		name = "SE_pic_1"
+		textureFile = "gfx/interface/SE/pics/1.png"
+	}
+}

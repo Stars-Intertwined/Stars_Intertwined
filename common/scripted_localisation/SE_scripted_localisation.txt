@@ -1,0 +1,18 @@
+defined_text = {
+	name = SE_TT
+	text = {
+		localization_key = "SE_TT_[?SE_value]"
+	}
+}
+defined_text = {
+	name = SE_DE
+	text = {
+		localization_key = "SE_DE_[?SE_value]"
+	}
+}
+defined_text = {
+	name = SE_MX
+	text = {
+		localization_key = "SE_MX_[?SE_value]"
+	}
+}

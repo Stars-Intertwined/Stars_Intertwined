@@ -1,0 +1,11 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_election_path_1976"
+		texturefile = "gfx/event_pictures/USA_election_path_1976.png"
+	}
+
+}
+
+
+

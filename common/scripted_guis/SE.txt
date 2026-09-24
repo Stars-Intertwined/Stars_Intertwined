@@ -1,0 +1,30 @@
+scripted_gui = {
+
+	SE_view = {
+		window_name = "SE_view"
+		context_type = player_context
+		
+		effects = {
+			SE_btn_click = {
+				remove_from_array = {
+                    array = ROOT.SE_ID
+                    index = SE_index
+                }
+			}
+		}
+		dynamic_lists = {
+			SE_grid = {
+				array = ROOT.SE_ID
+				entry_container = SE_window
+				change_scope = no
+				value = SE_value
+				index = SE_index
+			}
+		}
+		properties = {
+			SE_pic = {
+				image = SE_pic_[?SE_value]
+			}
+		}
+	}
+}
