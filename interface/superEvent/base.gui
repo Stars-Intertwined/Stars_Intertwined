@@ -1,0 +1,82 @@
+guiTypes = {
+	containerWindowType = {
+		name = "SE_view"
+		position = { x=0 y=0 }
+		size = { width = 100% height = 100% }
+		moveable = no
+		orientation = center
+		origo = center
+		clipping = no
+		
+	    gridboxtype = {
+			name = "SE_grid"
+			position = { x = 0 y = 0 }
+			size = { width = 0 height = 0 }
+			slotsize = { width = 0 height = 0 }
+			max_slots_horizontal = 32767
+			add_horizontal = no
+		}
+	}
+	containerWindowType = {
+		name = "SE_window"	
+		position = { x = 0 y = 0 }	
+		size = { width = 1009 height = 715 }
+		orientation = center
+		origo = center
+		moveable = no
+		click_to_front = no
+		clipping = no
+
+		background = {
+			name = "Background"	
+			spriteType = "GFX_SE_ui"
+		}
+		
+		iconType = {
+			name = "SE_pic"
+			spriteType = "SE_pic_0"
+			position = {x = 20 y = 96 }
+		}
+		
+		iconType = {
+			name = "SE_ui"
+			spriteType = "GFX_SE_ui"
+			position = { x = 0 y = 0 }
+		}
+		
+		instantTextBoxType = {
+			name = "SE_DE"
+			position = { x = 157 y = 461 }
+			font = "hoi_18mbs"
+			borderSize = {x = 0 y = 0}
+			text = "[SE_DE]"
+			maxWidth = 695
+			maxHeight = 180
+			fixedsize = yes	
+			vertical_alignment = center
+			format = center
+		}
+		
+		instantTextboxType = {
+			name = "SE_TT"
+			position = { x = 117 y = 53 }
+			font = "hoi_24header"
+			borderSize = {x = 0 y = 0}
+			text = "[SE_TT]"
+			maxWidth = 775
+			maxHeight = 43
+			vertical_alignment = center
+			format = center
+			fixedsize = yes
+		}
+		
+		buttonType = {
+			name = "SE_btn"
+			spriteType = "GFX_SE_btn"
+			position = { x = 334 y = 664 }
+			clicksound = click_close
+			buttonText = "[SE_MX]"
+			buttonFont = "hoi_20b"
+		}
+	}
+}

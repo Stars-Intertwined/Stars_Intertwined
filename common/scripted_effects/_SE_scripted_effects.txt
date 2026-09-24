@@ -1,0 +1,38 @@
+SE_SE = {
+	# 超事件脚本Effect 
+	# 使用时：`set_variable = { global.tSE_ID = <var> } SE_SE = yes`
+	# 超事件附带效果 `SE_SE_<Num> = {...}` / 超事件音乐 `music_SE_<Num>`
+	# -- Cz
+    hidden_effect = {
+		set_variable = { tSE_ID = global.tSE_ID }
+		meta_effect = {
+		    text = {
+			    SE_SE_[GetSEID] = yes
+			}
+			GetSEID = "[?tSE_ID]"
+		}
+   		every_possible_country = { 
+	 	    add_to_array = { array = THIS.SE_ID value = global.tSE_ID }
+			set_variable = { var_SE_ID = global.tSE_ID }
+			meta_effect = {
+			    text = {
+				    scoped_play_song = music_SE_[GetAPESEID]
+				}
+				GetAPESEID = "[?var_SE_ID]"
+			}
+			clear_variable = var_SE_ID
+		}
+		clear_variable = tSE_ID
+		clear_variable = global.tSE_ID 
+	}
+}
+SE_SE_0 = {
+	# Any Effects
+}
+
+SE_SE_1 = {
+	ROOT = {
+		set_country_flag = SOV_OGAS_super_event_1_fired_flag
+	}
+}
+

@@ -1,0 +1,11 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_SE_ui"
+		textureFile = "gfx/interface/SE/ui.png"
+	}
+	spriteType = {
+		name = "GFX_SE_btn"
+		textureFile = "gfx/interface/SE/btn.dds"
+		noOfFrames = 1
+	}
+}
