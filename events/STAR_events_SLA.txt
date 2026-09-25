@@ -1,0 +1,11 @@
+add_namespace = SLA
+country_event = {
+	id = SLA.1#新转折点
+	title = SLA.1.t
+	desc = SLA.1.desc
+	picture = GFX_image_event_SLA_1
+	is_triggered_only = yes
+	option = {
+		name = SLA.1.a
+	}
+}
